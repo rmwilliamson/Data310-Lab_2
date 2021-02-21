@@ -1,5 +1,16 @@
 # Lab 2
 
+## Question 1
+
+Regardless whether we know or not the shape of the distribution of a random variable, an interval centered around the mean whose total length is 8 standard deviations is guaranteed to include at least a certain percantage of data. This guaranteed minimal value as a percentage is
+
+```markdown
+k = 8
+(1-1/(k*k))*100
+```
+### 98.4375
+
+
 ## Question 3
 In the 'mtcars' dataset the zscore of an 18.1mpg car is 
 
