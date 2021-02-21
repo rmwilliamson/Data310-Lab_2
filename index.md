@@ -157,3 +157,4 @@ print ('Minimized cost:', compute_cost(b, m, data))
 ```
 ### Optimized b: 37.285117303091454
 ### Optimized m: -5.344469026915932
+### Minimized cost: 4.348780274117971
